@@ -1,4 +1,4 @@
-# 🌾 Tutorial resumido: Ciência de Dados com Python – Nível Básico - 2
+# 🌾 Tutorial resumido 2: Ciência de Dados com Python – Nível Básico
 ### Para estudantes de Pós-Graduação em Engenharia Agrícola
 
 ## Como usar
