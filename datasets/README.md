@@ -40,4 +40,3 @@ Todos os dados são simulados com base em padrões reais de experimentos agríco
 
 ---
 
-Desenvolvido para o curso de Ciência de Dados - Eng. Agrícola | UFV
